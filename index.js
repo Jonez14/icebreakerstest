@@ -77,7 +77,7 @@ function sendGenericMessage(sender) {
                 "elements": [{
                     "title": "First card",
                     "subtitle": "Element #1 of an hscroll",
-                    "image_url": "http://icebreakersunicorn.tumblr.com/post/143009448944/write-that-down",
+                    "image_url": "http://icebreakersunicorn.tumblr.com",
                     "buttons": [{
                         "type": "web_url",
                         "url": "https://www.messenger.com",
