@@ -77,7 +77,7 @@ function sendGenericMessage(sender) {
                 "elements": [{
                     "title": "First card",
                     "subtitle": "Element #1 of an hscroll",
-                    "image_url": "http://messengerdemo.parseapp.com/img/rift.png",
+                    "image_url": "http://icebreakersunicorn.tumblr.com/post/143009448944/write-that-down",
                     "buttons": [{
                         "type": "web_url",
                         "url": "https://www.messenger.com",
@@ -90,7 +90,7 @@ function sendGenericMessage(sender) {
                 }, {
                     "title": "Second card",
                     "subtitle": "Element #2 of an hscroll",
-                    "image_url": "http://messengerdemo.parseapp.com/img/gearvr.png",
+                    "image_url": "http://icebreakersunicorn.tumblr.com/post/142628054856",
                     "buttons": [{
                         "type": "postback",
                         "title": "Postback",
